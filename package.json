@@ -1,0 +1,12 @@
+{
+    "name": "TCS_TrackControl",
+    "description": "GUI for model railway track layout",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_raspberrypi.json",
+            "credentialsFile": "flows_raspberrypi_cred.json"
+        }
+    }
+}
